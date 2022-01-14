@@ -39,7 +39,7 @@
 
 
 ***
-[トップへ戻る](/README.md) / [大日本帝国の艦船](/ship_old/ship_old_emp_japan.md)  
+[トップへ戻る](/README.md) / [艦船（戦前）](/ship_old/README.md)  
   
 ::Project= 軍事兵器 辞書  
 ::Admin= Korei (@korei-xlix)  
