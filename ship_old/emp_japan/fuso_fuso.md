@@ -1,7 +1,7 @@
 # 扶桑（ふそう）
 **大日本帝国 扶桑型戦艦 1番艦**
 
-![aaa.jpg](http://drive.google.com/uc?export=view&id=1_rkz_MRh3bh5SeY9Be0T4oo3439XhDBR)  
+![aaa.jpg](https://bn02pap001files.storage.live.com/y4mhnwDW_J0nRQ8ZUB-FtlVVWsoZ3askeFtKD1HW9ObAeL6aOadqvXtVrzaTehYXub4MBE0EEI8iuDvg2zjBafYxIPjTiHZj6c5yV_oSOKle4spPI6Vmc0saV4x73Hh6j4drO2hHQAd4ApGok-LNDlf6kVJSrlGW5XpxHZ2nxMmxhi0AHt7Na8S2EvxoTr0Bfp8?width=640&height=422&cropmode=none)  
   
 |諸元  |  |
 |:--|:--|
@@ -28,9 +28,9 @@
 
 ## 関連画像
 **扶桑（アズールレーン）**  
-![aaa.jpg](http://drive.google.com/uc?export=view&id=1vlIhv9GC5pAX3_wkpwn_TH1bw6J5Gszf)  
+![aaa.jpg](https://bn02pap001files.storage.live.com/y4mgR6bXJOEXas1cLw5c5X0eBJ00zg5yKeZUVbPc-wLP6e52oWwVCrtHdXe9_GjtrdstQ-hbyk3NztsrXOnibVoYfaqJJzwsgy9we4CPUN7UmO8JZnxjKaye-BnMILwrZrWDpdepRRS2HLGoyidYKnycjSIDo2bBxM6SKooJDgRiB1z2UDNOvYM7arS3ccbn-Pt?width=640&height=360&cropmode=none)  
   
-![aaa.jpg](http://drive.google.com/uc?export=view&id=1JHQS5hLcIly74VxFmQq-t-RwcZe807AC)  
+![aaa.jpg](https://bn02pap001files.storage.live.com/y4myz1nP-ZuiaQ6LnW5E42yfqr94gfPojVfsd6BaDS3H97gJsPnqLbMw2bjCWHRlIAJiBzjMdMLctxtUCzlgqV0n9haSi26_EMe76LUZAoBKXs5BpJvdIgqhfnH7yukK1ChA-f5UoBs666Gcr8D2rrtcd_m2tz0xw0ez64XtIvQ0uIpcELI7J0xgI0JLcI0pHPw?width=640&height=360&cropmode=none)  
   
 
 
@@ -38,5 +38,10 @@
 * [Wikipedia:扶桑](https://ja.wikipedia.org/wiki/%E6%89%B6%E6%A1%91_(%E6%88%A6%E8%89%A6))
 
 
----
-[軍事兵器 辞書 Readme.md](/README.md) / [大日本帝国の艦船](/ship_old/emp_japan/README.md)
+***
+[トップへ戻る](/README.md) / [大日本帝国の艦船](/ship_old/ship_old_emp_japan.md)  
+  
+::Project= 軍事兵器 辞書  
+::Admin= Korei (@korei-xlix)  
+::github= https://github.com/korei-xlix/  
+::Homepage= https://koreixlix.wixsite.com/profile  
