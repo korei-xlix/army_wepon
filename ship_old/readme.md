@@ -18,8 +18,8 @@
 ## 戦艦
 
 ### 扶桑型戦艦
-[扶桑](/ship_old/emp_japan/fuso_fuso.md)/
-[山城](/ship_old/emp_japan/fuso_yamashirofuso.md)
+[扶桑](/ship_old/emp_japan/fuso.md)/
+[山城](/ship_old/emp_japan/fuso.md)
 
 
 ## 航空母艦
