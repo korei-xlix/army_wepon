@@ -4,18 +4,20 @@
 このドキュメントは世界の軍事兵器のうち、わたしが気になったものについてピックアップデータをまとめていきます。  
 主にアズールレーン、陸上自衛隊の兵器、世界情勢でピックアップされた兵器について記載します。  
 なおデータは主にWikipediaを参照しています。  
+  
+補足として中華民国は国民政府時代以前（つまり台湾国成立以前の中国大陸にあった中国国民党政府）を示しています。  
 
 
 # 目次 <a name="aMokuji"></a>
 * 艦船（大東亜戦争以前）
-	* [大日本帝国の艦船](/ship_old/emp_japan/readme.md)
-	* [アメリカ合衆国の艦船](/ship_old/america/readme.md)
-	* [イギリス王国の艦船](/ship_old/england/readme.md)
-	* [フランス王国の艦船](/ship_old/france/readme.md)
-	* [ソビエト連邦の艦船](/ship_old/soviet/readme.md)
-	* [イタリア王国の艦船](/ship_old/italia/readme.md)
-	* [ナチスドイツの艦船](/ship_old/nazis/readme.md)
-	* [その他の国の艦船](/ship_old/others/readme.md)
+	* [大日本帝国の艦船](/ship_old/readme.md#aEmp-Japan)
+	* [アメリカ合衆国の艦船](/ship_old/readme.md#aAmerica)
+	* [イギリス王国の艦船](/ship_old/readme.md#aEngland)
+	* [フランス王国の艦船](/ship_old/readme.md#aFrance)
+	* [ソビエト連邦の艦船](/ship_old/readme.md#aGermany)
+	* [ドイツ国の艦船](/ship_old/readme.md#aEmp-Japan)
+	* [イタリア帝国の艦船](/ship_old/readme.md#aItaly)
+	* [中華民国（国民政府時代以前）の艦船](/ship_old/readme.md#aChina)
 
 * 艦船（戦後）
 
