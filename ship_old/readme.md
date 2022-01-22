@@ -69,7 +69,7 @@
 
 
 ***
-[トップへ戻る](/README.md)  
+[トップへ戻る](/readme.md)  
   
 ::Project= 軍事兵器 辞書  
 ::Admin= Korei (@korei-xlix)  
