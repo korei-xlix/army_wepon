@@ -17,9 +17,13 @@
 
 ## 戦艦
 
-### 扶桑型戦艦
+#### 長門型戦艦
+[長門](/ship_old/emp_japan/nagato.md)/
+[陸奥](/ship_old/emp_japan/nagato.md)  
+
+#### 扶桑型戦艦
 [扶桑](/ship_old/emp_japan/fuso.md)/
-[山城](/ship_old/emp_japan/fuso.md)
+[山城](/ship_old/emp_japan/fuso.md)  
 
 
 ## 航空母艦
@@ -52,15 +56,15 @@
 
 ## 駆逐艦
 
-### 鞍山型
+#### 鞍山型
 [鞍山（あんしゃん）](/ship_old/china/anshan.md)/
 [撫順（ふしゅん）](/ship_old/china/anshan.md)/
 [長春（ちゃんちゅん）](/ship_old/china/anshan.md)/
-[太原（たいゆぁん）](/ship_old/china/anshan.md)
+[太原（たいゆぁん）](/ship_old/china/anshan.md)  
 
 
 ## 水上機母艦
-[鎮海（じぇんはい）](/ship_old/china/zhenhai.md)
+[鎮海（じぇんはい）](/ship_old/china/zhenhai.md)  
 
 
 
