@@ -2,12 +2,19 @@
 
 # このドキュメントについて
 このフォルダは世界の軍事兵器のうち、大東亜戦争後以前（1945年）に建造された艦船についてのピックアップデータをまとめていきます。  
-補足として中華民国は国民政府時代以前（つまり台湾国成立以前の中国大陸にあった中国国民党政府）を示しています。  
+
+> **補足**  
+> 中華民国は国民政府時代以前（つまり台湾国成立以前の中国大陸にあった中国国民党政府）を示しています。  
+> 更に本項目では、戦後、1950年代の中華人民共和国成立後に取得した艦艇についてもまとめます。  
+> （国民政府時代以前に取得された艦艇は、大陸に残されていますため）  
+>   
+> 現中華民国（台湾国）については、別項目に分けて記載します。  
 
 
 # 目次 <a name="aMokuji"></a>
 
 * [大日本帝国](#aEmp-Japan)
+* [中華民国（国民政府時代以前）・中華人民共和国](#aChina)
 
 
 
@@ -43,6 +50,22 @@
 
 ## 駆逐艦
 
+#### 白露型駆逐艦
+[白露](/ship_old/emp_japan/shiratsuyu.md)/
+[時雨](/ship_old/emp_japan/shiratsuyu.md)/
+[村雨](/ship_old/emp_japan/shiratsuyu.md)/
+[夕立](/ship_old/emp_japan/shiratsuyu.md)/
+[春雨](/ship_old/emp_japan/shiratsuyu.md)  
+
+[五月雨](/ship_old/emp_japan/shiratsuyu.md)/
+[海風](/ship_old/emp_japan/shiratsuyu.md)/
+[山風](/ship_old/emp_japan/shiratsuyu.md)/
+[江風](/ship_old/emp_japan/shiratsuyu.md)/
+[涼風](/ship_old/emp_japan/shiratsuyu.md)  
+
+#### 島風型駆逐艦
+[島風](/ship_old/emp_japan/shimakaze.md)  
+
 
 ## 潜水艦
 
@@ -54,7 +77,7 @@
 
 
 
-# 中華民国（国民政府時代以前） <a name="aChina"></a>
+# 中華民国（国民政府時代以前）・中華人民共和国 <a name="aChina"></a>
 [目次へ](#aMokuji)
 
 ## 軽巡洋艦

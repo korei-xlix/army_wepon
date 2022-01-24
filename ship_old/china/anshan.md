@@ -1,5 +1,5 @@
 # 鞍山（あんしゃん）型駆逐艦
-**中華民国 駆逐艦**  
+**中華人民共和国 駆逐艦**  
 
 ![aaa.jpg](https://bn02pap001files.storage.live.com/y4m8lH54s7GRjIBWEz5A8lpS4PQnS6lRF082oXmYD80sLjYtgzI2qhGj6ByqyDZSU-DQlIatxhnCyPwjtj9GS6XYLuCDuXW7OtbkqMjhkTp43g9OHFozc-pyQVL25cyfqzVMrWTIcXsJ65iK36S0vqixL0vNVWGnLajy4oKD15Mf0d_Z9FVZDlToMWpJDdxYymF?width=640&height=480&cropmode=none)  
   
@@ -28,7 +28,7 @@
 
 
 # 解説
-中華民国の駆逐艦。  
+中華人民共和国の駆逐艦。  
 1930年代にイタリアの設計を手本に開発されたソ連の7号計画型駆逐艦（グネフヌイ級）で、1950年代に中華人民共和国へ4隻が供給された。中国人民解放軍海軍にとっては最初の駆逐艦である。  
 四隻とも青島の北海艦隊に配備され、中国の首都北京を含む東北中国部の沿岸への敵艦隊の侵入を阻止するという重要な役割を担った。  
 70年前後に大規模な近代化改修が実施され、魚雷発射管が撤去され、代わりにP-15（SY-1）艦対艦ミサイルの発射機が設置された。  
