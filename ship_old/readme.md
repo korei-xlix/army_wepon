@@ -28,6 +28,12 @@
 
 ## 航空母艦
 
+#### 蒼龍型航空母艦
+[蒼龍](/ship_old/emp_japan/souryu.md)  
+
+#### 飛龍型航空母艦
+[飛龍](/ship_old/emp_japan/hiryu.md)  
+
 
 ## 重巡洋艦
 

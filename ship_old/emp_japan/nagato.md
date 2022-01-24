@@ -50,7 +50,7 @@
 ![aaa.jpg](https://bn02pap001files.storage.live.com/y4mQJ0gbZfn5l4v8R6yTZL81qv7ZnJH8OAvZ4cCp-W1_PU8t9e9st8jKZLJEekYJN4fF5T4E_EVCDm2GI7hDLhHnJi8Zl9XZyWr6sDLxgbD9w73S6s5Kr6-BU9---HerlkWCTCItZD7fJgE3dBPrdhj6MWIfBzwBs-DR_ZqqTm6VqjSJbzVxdsh_2M3HOqztcdp?width=640&height=360&cropmode=none)  
 
 #### 陸奥（アズールレーン）
-![aaa.jpg](https://bn02pap001files.storage.live.com/y4mjLP06SWW6u3pdKeMUhL--4eXH_qVpgS3hWYBxa7Z48uRvobmTz_BiX25C-WfanPdH6g-N62tukM1YGLbYMIx0AEK3IElzbdWOWeMHjWoHciW2PpDmwjVOlYNahNXrmUnsZ8hFRU_EGm5NTK1yHvdwdaPjYr0sFR-bYnYw_CMRd0_MkUq8j2qiJRJxHADcFRO?width=1600&height=900&cropmode=none)  
+![aaa.jpg](https://bn02pap001files.storage.live.com/y4mK9R98POp-ud0G6hfsnTea3amqGg4xgKiOj1m933IbwfjQW7Ct8BV4iaIRcbJlTrC94oqAKpW1eA1MqzpwIZ7FYkai1BqINr3zUUnlOc8ug4gzclOlK_SUTiG_ngymE6Vxb2xBBviDtVn4npQGWV5oW8YBuqpCYyry1vsH5svmwNAM-FQEzUjKetHElq7PG2e?width=640&height=360&cropmode=none)  
 
 
 # 関連情報
