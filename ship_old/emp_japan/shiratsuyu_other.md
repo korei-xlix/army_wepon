@@ -76,7 +76,7 @@
 
 
 ***
-[トップへ戻る](/readme.md) / [艦船（戦前）](/ship_old/readme.md) / [白露型駆逐艦](/ship_old/shiratsuyu.md)   
+[トップへ戻る](/readme.md) / [艦船（戦前）](/ship_old/readme.md) / [白露型駆逐艦](shiratsuyu.md)   
   
 ::Project= 軍事兵器 辞書  
 ::Admin= Korei (@korei-xlix)  

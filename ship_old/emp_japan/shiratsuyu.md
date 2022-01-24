@@ -4,7 +4,7 @@
 #### 白露
 ![aaa.jpg](https://bn02pap001files.storage.live.com/y4mt3y_7YzJQJe5yEbjdrsny4GMyQtLWYn5bCwGQrCEEGWxpciOz3h65R9Aj9mPMmy_9POiEoEbmRph5IjDNI6dsB7MmwE3KjVP5cpj04qXkwEdVVFazZEXCtEeiZFH0Xp0FlsBg21dfbnJI_cLHb5oes0rEPzUB2njQjGKT_uneVFWpVe4qdM0sItwb0stjip-?width=600&height=300&cropmode=none)  
   
-[白露型駆逐艦のその他の艦艇](/ship_old/shiratsuyu_other.md)  
+[白露型駆逐艦のその他の艦艇](shiratsuyu_other.md)  
 
 
 |同型艦  |艦船名  |進水  |
@@ -49,7 +49,7 @@
 #### 白露（アズールレーン）
 ![aaa.jpg](https://bn02pap001files.storage.live.com/y4mgXpkmSKJyBAiYQb1ACXlHWdRStLDFA-9ZGNOnEeVNO5DzMqYr-VtXtb7KQrylwNniGu9LN-nC2XYZxuMR9V5e0LRnv3t7hcKnTYWcfbgYPE8I8Bbd9B6tavs9zvlj9ybFQVEBnf8LMD7_zmX1Z9c83dzQI8u1NZo6BGUbZ-6QnwEwyqoHtDqQBW0QFPKf5Nw?width=640&height=360&cropmode=none)  
   
-[白露型駆逐艦のその他の艦艇](/ship_old/shiratsuyu_other.md)  
+[白露型駆逐艦のその他の艦艇](shiratsuyu_other.md)  
 
 
 # 関連情報
