@@ -17,7 +17,7 @@
 	* [ソビエト連邦の艦船](/ship_old/readme.md#aGermany)
 	* [ドイツ国の艦船](/ship_old/readme.md#aEmp-Japan)
 	* [イタリア帝国の艦船](/ship_old/readme.md#aItaly)
-	* [中華民国（国民政府時代以前）の艦船](/ship_old/readme.md#aChina)
+	* [中華民国（国民政府時代以前）・中華人民共和国の艦船](/ship_old/readme.md#aChina)
 
 * 艦船（戦後）
 

@@ -80,6 +80,13 @@
 # 中華民国（国民政府時代以前）・中華人民共和国 <a name="aChina"></a>
 [目次へ](#aMokuji)
 
+## 防護巡洋艦
+
+#### 鞍山型
+[海天（はいてん）](/ship_old/china/haiten.md)/
+[海圻（はいちー）](/ship_old/china/haiten.md)
+
+
 ## 軽巡洋艦
 
 
