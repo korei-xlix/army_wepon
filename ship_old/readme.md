@@ -32,6 +32,12 @@
 [扶桑](/ship_old/emp_japan/fuso.md)/
 [山城](/ship_old/emp_japan/fuso.md)  
 
+#### 紀伊型戦艦
+[紀伊](/ship_old/emp_japan/kii.md)/
+尾張/
+[駿河](/ship_old/emp_japan/kii.md)/
+近江  
+
 
 ## 航空母艦
 
