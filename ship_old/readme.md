@@ -47,6 +47,11 @@
 #### 飛龍型航空母艦
 [飛龍](/ship_old/emp_japan/hiryu.md)  
 
+#### 雲竜型正規空母
+[雲龍](/ship_old/emp_japan/unryuu.md)/
+[天城](/ship_old/emp_japan/unryuu.md)/
+[葛城](/ship_old/emp_japan/unryuu.md)  
+
 
 ## 重巡洋艦
 
