@@ -101,6 +101,70 @@
 
 
 
+# ドイツ国 <a name="aGermany"></a>
+[目次へ](#aMokuji)
+
+## 戦艦
+
+#### ビスマルク級戦艦
+[ビスマルク](/ship_old/germany/bismarck.md)/
+[ティルピッツ](/ship_old/germany/bismarck.md)  
+
+
+## 航空母艦
+
+
+## 重巡洋艦
+
+
+## 軽巡洋艦
+
+
+## 駆逐艦
+
+
+## 潜水艦
+
+
+## その他の艦船
+
+
+
+
+
+
+
+
+
+# ソビエト連邦 <a name="aSoviet"></a>
+[目次へ](#aMokuji)
+
+## 戦艦
+
+#### ソビエツキー・ソユーズ級戦艦
+[ソビエツキー・ソユーズ](/ship_old/soviet/sovetsky_soyuz.md)/
+ソビエツカヤ・ウクライ/
+[ソビエツカヤ・ベロルーシヤ](/ship_old/soviet/sovetsky_soyuz.md)/
+ソビエツカヤ・ロシア  
+
+
+## 重巡洋艦
+
+
+## 軽巡洋艦
+
+
+## 駆逐艦
+
+
+## その他の艦船
+
+
+
+
+
+
+
 # 中華民国（国民政府時代以前）・中華人民共和国 <a name="aChina"></a>
 [目次へ](#aMokuji)
 

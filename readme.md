@@ -14,8 +14,8 @@
 	* [アメリカ合衆国の艦船](/ship_old/readme.md#aAmerica)
 	* [イギリス王国の艦船](/ship_old/readme.md#aEngland)
 	* [フランス王国の艦船](/ship_old/readme.md#aFrance)
-	* [ソビエト連邦の艦船](/ship_old/readme.md#aGermany)
-	* [ドイツ国の艦船](/ship_old/readme.md#aEmp-Japan)
+	* [ドイツ国の艦船](/ship_old/readme.md#aGermany)
+	* [ソビエト連邦の艦船](/ship_old/readme.md#aSoviet)
 	* [イタリア帝国の艦船](/ship_old/readme.md#aItaly)
 	* [中華民国（国民政府時代以前）・中華人民共和国の艦船](/ship_old/readme.md#aChina)
 
