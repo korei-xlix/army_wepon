@@ -53,6 +53,15 @@
 
 ## 軽巡洋艦
 
+#### 長良型軽巡洋艦
+[長良](/ship_old/emp_japan/nagara.md)/
+[五十鈴](/ship_old/emp_japan/nagara.md)/
+名取/
+[由良](/ship_old/emp_japan/nagara.md)/
+[鬼怒](/ship_old/emp_japan/nagara.md)/
+[阿武隈](/ship_old/emp_japan/nagara.md)  
+
+
 
 ## 駆逐艦
 
