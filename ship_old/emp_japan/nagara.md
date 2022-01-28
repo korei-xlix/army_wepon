@@ -55,6 +55,8 @@
 
 #### 長良（アズールレーン）
 ![aaa.jpg](https://bn02pap001files.storage.live.com/y4mO4aKtnzvE7Y2QXKEYj2DUbGfo0_-AjQsmajTF4Re56JPnr0yYtwp_5clBOPeemdflxmVeXcbBFhxy7GOLf_qWZORxPEuGNDLgqI8uo2CoO6h-ju5Qc6YzcSaYNWMrb80Tpbw-bctlyq-go0pmzV9zuZ-Z0ygZUDzxshg8kqDEHuNCBwS3auDgLcJHKRdzG9x?width=640&height=360&cropmode=none)  
+  
+[長良型軽巡洋艦のその他の艦艇](nagara_other.md)  
 
 
 # 関連情報
