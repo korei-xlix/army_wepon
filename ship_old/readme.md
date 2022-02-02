@@ -109,6 +109,55 @@
 
 ## 航空母艦
 
+#### ヨークタウン級航空母艦
+[ヨークタウン](/ship_old/america/yorktown.md)/
+[エンタープライズ](/ship_old/america/yorktown.md)/
+[ホーネット](/ship_old/america/yorktown.md)  
+
+
+#### インディペンデンス級軽空母
+[ヨークタウン](/ship_old/america/independence.md)/
+[プリンストン](/ship_old/america/independence.md)/
+ベロー・ウッド/
+カウペンス/
+モンテレー  
+
+[ラングレー](/ship_old/america/independence.md)/
+カボット
+[バターン](/ship_old/america/independence.md)/
+サン・ジャシント  
+
+
+#### エセックス級航空母艦
+[エセックス](/ship_old/america/essex.md)/
+ヨークタウン/
+[イントレピッド](/ship_old/america/essex.md)/
+ホーネット/
+フランクリン  
+
+[タイコンデロガ](/ship_old/america/essex.md)/
+ランドルフ/
+レキシントン/
+[バンカー・ヒル](/ship_old/america/essex.md)/
+ワスプ  
+
+ハンコック/
+ベニントン/
+ボクサー/
+ボノム・リシャール/
+レイテ  
+
+キアサージ/
+オリスカニー/
+アンティータム/
+プリンストン  
+
+[シャングリラ](/ship_old/america/essex.md)/
+レイク・シャンプレイン/
+タラワ/
+ヴァリー・フォー/
+フィリピン・シー  
+
 
 ## 重巡洋艦
 
@@ -123,6 +172,9 @@
 
 
 ## 潜水艦
+
+#### バラオ級潜水艦
+[アーチャーフィッシュ](/ship_old/america/balao.md)  
 
 
 ## その他の艦船
