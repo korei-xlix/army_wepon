@@ -19,9 +19,24 @@
 [目次へ](#aMokuji)
 
 ## 制空戦闘機
+[F-15J](/plane/america/f15.md)/
+[F-35A](/plane/america/f35.md)  
 
 
 ## 支援戦闘機
+
+
+## 早期警戒機
+[E-767](/plane/japan/e767.md)  
+
+
+## 対潜哨戒機
+[P-3C](/plane/america/p3.md)/
+[P-1](/plane/japan/p1.md)  
+
+
+## 電子戦作戦機
+[EP-3](/plane/america/p3.md)  
 
 
 ## 戦闘ヘリコプター
@@ -48,10 +63,12 @@
 
 
 ## 制空戦闘機
+[F-15](/plane/america/f15.md)/
 [F-22](/plane/america/f22.md)  
 
 
 ## 戦闘機
+[F-15E](/plane/america/f15.md)/
 [F-35](/plane/america/f35.md)  
 
 
