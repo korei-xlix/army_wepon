@@ -10,16 +10,16 @@
 
 # 目次 <a name="aMokuji"></a>
 * 艦船
-	* [大日本帝国の艦船](/ship_old/readme.md#aEmp-Japan)
+	* [大日本帝国の艦船](/ship/readme.md#aEmp-Japan)
 	* [日本国の艦船](/ship_mod/readme.md#aJapan)
 
-	* [アメリカ合衆国の艦船](/ship_old/readme.md#aAmerica)
-	* [イギリス王国の艦船](/ship_old/readme.md#aEngland)
-	* [フランス王国の艦船](/ship_old/readme.md#aFrance)
-	* [ドイツ国の艦船](/ship_old/readme.md#aGermany)
-	* [ソビエト連邦・ロシア連邦の航空機の艦船](/ship_old/readme.md#aRussia)
-	* [イタリア帝国の艦船](/ship_old/readme.md#aItaly)
-	* [旧中華民国（国民政府時代以前）・中華人民共和国の艦船](/ship_old/readme.md#aChina)
+	* [アメリカ合衆国の艦船](/ship/readme.md#aAmerica)
+	* [イギリス王国の艦船](/ship/readme.md#aEngland)
+	* [フランス王国の艦船](/ship/readme.md#aFrance)
+	* [ドイツ国の艦船](/ship/readme.md#aGermany)
+	* [ソビエト連邦・ロシア連邦の航空機の艦船](/ship/readme.md#aRussia)
+	* [イタリア帝国の艦船](/ship/readme.md#aItaly)
+	* [旧中華民国（国民政府時代以前）・中華人民共和国の艦船](/ship/readme.md#aChina)
 
 * 航空機
 	* [大日本帝国の航空機](/plane/readme.md#aEmp-Japan)
