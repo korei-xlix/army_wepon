@@ -21,9 +21,12 @@
 
 
 ## 携行ロケット
+[84mm無反動砲](/wepon/others/carlgustaf.md)  
+[01式軽対戦車誘導弾](/wepon/japan/atm5.md)  
 
 
-
+## 地雷
+[指向性散弾](/wepon/others/fordonsmina13.md)  
 
 
 
@@ -35,6 +38,7 @@
 
 
 ## 携行ロケット
+[カールグスタフ](/wepon/others/carlgustaf.md)  
 
 
 
@@ -47,8 +51,7 @@
 
 
 ## 携行ロケット
-
-
+[RPG-7](/wepon/russia/rpg7.md)  
 
 
 
