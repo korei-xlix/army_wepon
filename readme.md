@@ -5,28 +5,21 @@
 主にアズールレーン、陸上自衛隊の兵器、世界情勢でピックアップされた兵器について記載します。  
 なおデータは主にWikipediaを参照しています。  
   
-補足として中華民国は国民政府時代以前（つまり台湾国成立以前の中国大陸にあった中国国民党政府）を示しています。  
+補足として「旧中華民国」は国民政府時代以前（つまり台湾国成立以前の中国大陸にあった中国国民党政府）を示しています。  
 
 
 # 目次 <a name="aMokuji"></a>
-* 艦船（大東亜戦争以前）
+* 艦船
 	* [大日本帝国の艦船](/ship_old/readme.md#aEmp-Japan)
+	* [日本国の艦船](/ship_mod/readme.md#aJapan)
+
 	* [アメリカ合衆国の艦船](/ship_old/readme.md#aAmerica)
 	* [イギリス王国の艦船](/ship_old/readme.md#aEngland)
 	* [フランス王国の艦船](/ship_old/readme.md#aFrance)
 	* [ドイツ国の艦船](/ship_old/readme.md#aGermany)
-	* [ソビエト連邦の艦船](/ship_old/readme.md#aSoviet)
+	* [ソビエト連邦・ロシア連邦の航空機の艦船](/ship_old/readme.md#aRussia)
 	* [イタリア帝国の艦船](/ship_old/readme.md#aItaly)
-	* [中華民国（国民政府時代以前）・中華人民共和国の艦船](/ship_old/readme.md#aChina)
-
-* 艦船（戦後）
-	* [日本国の艦船](/ship_mod/readme.md#aJapan)
-	* [アメリカ合衆国の艦船](/ship_mod/readme.md#aAmerica)
-	* [イギリス王国の艦船](/ship_mod/readme.md#aEngland)
-	* [フランス王国の艦船](/ship_mod/readme.md#aFrance)
-	* [ドイツ国の艦船](/ship_mod/readme.md#aGermany)
-	* [ソビエト連邦・ロシア共和国の艦船](/ship_mod/readme.md#aSoviet)
-	* [中華人民共和国の艦船](/ship_mod/readme.md#aChina)
+	* [旧中華民国（国民政府時代以前）・中華人民共和国の艦船](/ship_old/readme.md#aChina)
 
 * 航空機
 	* [大日本帝国の航空機](/plane/readme.md#aEmp-Japan)
@@ -35,7 +28,7 @@
 	* [イギリス王国の航空機](/plane/readme.md#aEngland)
 	* [フランス王国の航空機](/plane/readme.md#aFrance)
 	* [ドイツ国の航空機](/plane/readme.md#aGermany)
-	* [ソビエト連邦・ロシア共和国の航空機](/plane/readme.md#aSoviet)
+	* [ソビエト連邦・ロシア共和国の航空機](/plane/readme.md#aRussia)
 	* [中華人民共和国の航空機](/plane/readme.md#aChina)
 
 * 戦車・車両
@@ -45,7 +38,7 @@
 	* [イギリス王国の戦車・車両](/ground/readme.md#aEngland)
 	* [フランス王国の戦車・車両](/ground/readme.md#aFrance)
 	* [ドイツ国の戦車・車両](/ground/readme.md#aGermany)
-	* [ソビエト連邦・ロシア共和国の戦車・車両](/ground/readme.md#aSoviet)
+	* [ソビエト連邦・ロシア共和国の戦車・車両](/ground/readme.md#aRussia)
 	* [中華人民共和国の戦車・車両](/ground/readme.md#aChina)
 
 * 戦術・戦略兵器
@@ -57,7 +50,7 @@
 * 武器
 	* [日本国の武器](/wepon/readme.md#aJapan)
 	* [アメリカ合衆国の武器](/wepon/readme.md#aAmerica)
-	* [ソビエト連邦・ロシア共和国の武器](/wepon/readme.md#aSoviet)
+	* [ソビエト連邦・ロシア共和国の武器](/wepon/readme.md#aRussia)
 
 * [本ドキュメントの規約](#aRules)
 * [著作権](#aCopyright)

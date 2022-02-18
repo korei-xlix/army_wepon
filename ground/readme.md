@@ -9,7 +9,7 @@
 
 * [日本国](#aJapan)
 * [アメリカ合衆国](#aAmerica)
-* [ソビエト連邦・ロシア共和国](#aSoviet)
+* [ソビエト連邦・ロシア共和国](#aRussia)
 * [中華人民共和国](#aChina)
 * [北朝鮮](#aNortthKorea)
 * [その他の国](#aOthers)
@@ -89,7 +89,7 @@
 
 
 
-# ソビエト連邦・ロシア共和国 <a name="aSoviet"></a>
+# ソビエト連邦・ロシア共和国 <a name="aRussia"></a>
 [目次へ](#aMokuji)
 
 ## 戦車
