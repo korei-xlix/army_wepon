@@ -183,6 +183,42 @@
 
 
 
+# イギリス王国 <a name="aEngland"></a>
+[目次へ](#aMokuji)
+
+## 戦艦
+
+#### リヴェンジ級戦艦
+[リヴェンジ](/ship_old/england/revenge.md)/
+[レゾリューション](/ship_old/england/revenge.md)/
+[ラミリーズ](/ship_old/england/revenge.md)/
+[ロイヤル・オーク](/ship_old/england/revenge.md)  
+
+
+## 航空母艦
+
+
+## 重巡洋艦
+
+
+## 軽巡洋艦
+
+
+## 駆逐艦
+
+
+## 潜水艦
+
+
+## その他の艦船
+
+
+
+
+
+
+
+
 
 # ドイツ国 <a name="aGermany"></a>
 [目次へ](#aMokuji)
@@ -231,6 +267,10 @@
 ソビエツカヤ・ロシア  
 
 
+#### リヴェンジ級戦艦（イギリス貸与）
+[アルハンゲリスク（ロイヤル・サブリン）](/ship_old/england/revenge.md)  
+
+
 ## 重巡洋艦
 
 
@@ -238,6 +278,9 @@
 
 
 ## 駆逐艦
+
+#### 同型艦なし
+[ソオブラジーテリヌイ](/ship_old/soviet/soviet_derinui.md)/
 
 
 ## その他の艦船
