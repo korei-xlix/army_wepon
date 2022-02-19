@@ -217,7 +217,7 @@
 # イギリス王国 <a name="aEngland"></a>
 [目次へ](#aMokuji)
 
-## 戦艦
+## 戦艦（戦前）
 
 #### リヴェンジ級戦艦
 [リヴェンジ](/ship/england/revenge.md)/
@@ -252,7 +252,7 @@
 # ドイツ国 <a name="aGermany"></a>
 [目次へ](#aMokuji)
 
-## 戦艦
+## 戦艦（戦前）
 
 #### ビスマルク級戦艦
 [ビスマルク](/ship/germany/bismarck.md)/
@@ -298,6 +298,12 @@
 [アルハンゲリスク（ロイヤル・サブリン）](/ship/england/revenge.md)  
 
 
+## 航空母艦
+
+#### 72号計画空母（計画中止）
+[ヴォルガ（if艦）](/ship/russia/project72.md)  
+
+
 ## 重巡洋艦
 
 #### スターリングラード級重巡洋艦（計画中止）
@@ -310,8 +316,21 @@
 
 ## 駆逐艦
 
+#### キエフ級嚮導駆逐艦（計画中止）
+[キエフ（計画中止）](/ship/russia/kiev_destroyer.md)  
+
+#### レニングラード級駆逐艦
+[ミンスク](/ship/russia/leningrad_destroyer.md)/
+
+#### グネフヌイ級駆逐艦
+[グローズヌイ](/ship/russia/gnevny.md)/
+[グロームキイ](/ship/russia/gnevny.md)/
+[ストレミーテリヌイ](/ship/russia/gnevny.md)/
+[グレミャーシチイ](/ship/russia/gnevny.md)  
+
 #### 同型艦なし
-[ソオブラジーテリヌイ](/ship/russia/soviet_derinui.md)/
+[タシュケント（20号計画駆逐艦）](/ship/russia/tashkent_destroyer.md)/
+[ソオブラジーテリヌイ](/ship/russia/soviet_derinui.md)  
 
 
 ## その他の艦船
