@@ -89,6 +89,9 @@
 
 ## 戦車
 
+#### 重戦車
+[M26](/ground/america/m26.md)  
+
 #### 自走砲
 [M-110](/ground/america/m110.md)  
 
@@ -108,6 +111,12 @@
 
 # イギリス王国 <a name="aEngland"></a>
 [目次へ](#aMokuji)
+
+## 戦車
+
+#### 重戦車
+[A41](/ground/england/a41.md)  
+
 
 ## 重車両
 
