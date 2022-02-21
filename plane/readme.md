@@ -6,11 +6,32 @@
 
 
 # 目次 <a name="aMokuji"></a>
-
+* [大日本帝国](#aEmp-Japan)
 * [日本国](#aJapan)
 * [アメリカ合衆国](#aAmerica)
-* [ソビエト連邦・ロシア共和国](#aRussia)
+* [イギリス王国](#aEngland)
+* [フランス王国](#aFrance)
+* [ドイツ国](#aGermany)
+* [ソビエト連邦・ロシア連邦](#aRussia)
 * [中華人民共和国](#aChina)
+* [イタリア王国](#aItaly)
+* [北朝鮮](#aNortthKorea)
+* [その他の国](#aOthers)
+
+
+
+
+# 大日本帝国 <a name="aEmp-Japa"></a>
+[目次へ](#aMokuji)
+
+## 水上偵察機（レシプロ機）
+[零式水上観測機](/plane/emp_japan/f1m.md)/
+[九五式水上偵察機](/plane/emp_japan/type95.md)  
+
+
+
+
+
 
 
 
@@ -99,7 +120,64 @@
 
 
 
-# ソビエト連邦・ロシア共和国 <a name="aRussia"></a>
+
+
+# イギリス王国 <a name="aEngland"></a>
+[目次へ](#aMokuji)
+
+## 制空戦闘機
+
+## 戦闘機
+[トーネード](/plane/england/tornado.md)/
+[EF-2000](/plane/england/ef2000.md)  
+
+
+## 攻撃機
+[ジャギュア](/plane/england/jaguar.md)  
+
+
+## 爆撃機
+
+
+## 戦闘ヘリコプター
+
+
+
+
+
+
+# フランス王国 <a name="aFrance"></a>
+[目次へ](#aMokuji)
+
+## 制空戦闘機
+
+
+## 戦闘機
+[ミラージュF1](/plane/france/mirage_f1.md)/
+[ラファール](/plane/france/rafale.md)/
+[ミラージュ2000](/plane/france/mirage2000.md)  
+
+
+## 艦上攻撃機
+[シュペルエタンダール](/plane/france/superetendard.md)  
+
+
+## 爆撃機
+
+
+## 戦闘ヘリコプター
+
+
+
+
+
+
+
+
+
+
+
+# ソビエト連邦・ロシア連邦 <a name="aRussia"></a>
 [目次へ](#aMokuji)
 
 ## 制空戦闘機
@@ -140,6 +218,38 @@
 
 
 ## 戦闘ヘリコプター
+
+
+
+
+
+# イタリア王国 <a name="aItaly"></a>
+[目次へ](#aMokuji)
+
+## 戦闘機（レシプロ機）
+[G.50](/plane/italy/g50.md)/
+[Re.2000](/plane/italy/re2000.md)/
+[Re.2000](/plane/italy/re2001.md)  
+
+## 水上偵察機（レシプロ機）
+[G.50](/plane/italy/ro43.md)  
+
+
+## 制空戦闘機
+
+
+## 戦闘機
+
+
+## 攻撃機
+
+
+## 爆撃機
+
+
+## 戦闘ヘリコプター
+
+
 
 
 

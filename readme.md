@@ -5,7 +5,13 @@
 主にアズールレーン、陸上自衛隊の兵器、世界情勢でピックアップされた兵器について記載します。  
 なおデータは主にWikipediaを参照しています。  
   
-補足として「旧中華民国」は国民政府時代以前（つまり台湾国成立以前の中国大陸にあった中国国民党政府）を示しています。  
+> **補足**  
+> 「中華人民共和国」は現在北京を首都とする国家政府と、は国民政府時代以前の中華民国（つまり台湾国成立以前の中国大陸にあった中国国民党政府）を示しています。  
+> 更に本項目では、戦後、1950年代の中華人民共和国成立後に取得した兵器についてもまとめます。  
+> （国民政府時代以前に取得された兵器は、大陸に残されていますため）  
+>   
+> 「中華民国」は現在の台湾島を中心とした国家政府（国際通称の台湾）を示しています。項目として中華人民共和国と分けて記載します。  
+
 
 
 # 目次 <a name="aMokuji"></a>
@@ -17,40 +23,50 @@
 	* [イギリス王国の艦船](/ship/readme.md#aEngland)
 	* [フランス王国の艦船](/ship/readme.md#aFrance)
 	* [ドイツ国の艦船](/ship/readme.md#aGermany)
-	* [ソビエト連邦・ロシア連邦の航空機の艦船](/ship/readme.md#aRussia)
-	* [イタリア帝国の艦船](/ship/readme.md#aItaly)
-	* [旧中華民国（国民政府時代以前）・中華人民共和国の艦船](/ship/readme.md#aChina)
+	* [ソビエト連邦・ロシア連邦の艦船](/ship/readme.md#aRussia)
+	* [中華人民共和国の艦船](/ship/readme.md#aChina)
+	* [イタリア王国の艦船](/ship/readme.md#aItaly)
 
 * 航空機
 	* [大日本帝国の航空機](/plane/readme.md#aEmp-Japan)
 	* [日本国の航空機](/plane/readme.md#aJapan)
+
 	* [アメリカ合衆国の航空機](/plane/readme.md#aAmerica)
 	* [イギリス王国の航空機](/plane/readme.md#aEngland)
 	* [フランス王国の航空機](/plane/readme.md#aFrance)
 	* [ドイツ国の航空機](/plane/readme.md#aGermany)
-	* [ソビエト連邦・ロシア共和国の航空機](/plane/readme.md#aRussia)
+	* [ソビエト連邦・ロシア連邦の航空機](/plane/readme.md#aRussia)
 	* [中華人民共和国の航空機](/plane/readme.md#aChina)
+	* [イタリア王国の航空機](/plane/readme.md#aItaly)
 
 * 戦車・車両
 	* [大日本帝国の戦車・車両](/ground/readme.md#aEmp-Japan)
 	* [日本国の戦車・車両](/ground/readme.md#aJapan)
+
 	* [アメリカ合衆国の戦車・車両](/ground/readme.md#aAmerica)
 	* [イギリス王国の戦車・車両](/ground/readme.md#aEngland)
 	* [フランス王国の戦車・車両](/ground/readme.md#aFrance)
 	* [ドイツ国の戦車・車両](/ground/readme.md#aGermany)
-	* [ソビエト連邦・ロシア共和国の戦車・車両](/ground/readme.md#aRussia)
+	* [ソビエト連邦・ロシア連邦の戦車・車両](/ground/readme.md#aRussia)
 	* [中華人民共和国の戦車・車両](/ground/readme.md#aChina)
+	* [イタリア王国の戦車・車両](/ground/readme.md#aItaly)
 
 * 戦術・戦略兵器
 	* [アメリカ合衆国の戦術・戦略兵器](/ground/readme.md#aStrAmerica)
-	* [ソビエト連邦・ロシア共和国の戦術・戦略兵器](/ground/readme.md#aStrSoviet)
+	* [イギリス王国の戦術・戦略兵器](/ground/readme.md#aStrEngland)
+	* [フランス王国の戦術・戦略兵器](/ground/readme.md#aStrFrance)
+	* [ソビエト連邦・ロシア連邦の戦術・戦略兵器](/ground/readme.md#aStrSoviet)
 	* [中華人民共和国の戦術・戦略兵器](/ground/readme.md#aStrChina)
 	* [北朝鮮の戦術・戦略兵器](/ground/readme.md#aStrNortthKorea)
 
 * 武器
 	* [日本国の武器](/wepon/readme.md#aJapan)
 	* [アメリカ合衆国の武器](/wepon/readme.md#aAmerica)
-	* [ソビエト連邦・ロシア共和国の武器](/wepon/readme.md#aRussia)
+	* [イギリス王国の武器](/wepon/readme.md#aEngland)
+	* [フランス王国の武器](/wepon/readme.md#aFrance)
+	* [ドイツ国の武器](/wepon/readme.md#aGermany)
+	* [ソビエト連邦・ロシア連邦の武器](/wepon/readme.md#aRussia)
+	* [中華人民共和国の武器](/wepon/readme.md#aChina)
 
 * [本ドキュメントの規約](#aRules)
 * [著作権](#aCopyright)

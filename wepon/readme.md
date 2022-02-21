@@ -6,10 +6,17 @@
 
 
 # 目次 <a name="aMokuji"></a>
-
+* [大日本帝国](#aEmp-Japan)
 * [日本国](#aJapan)
 * [アメリカ合衆国](#aAmerica)
-* [ソビエト連邦・ロシア共和国](#aRussia)
+* [イギリス王国](#aEngland)
+* [フランス王国](#aFrance)
+* [ドイツ国](#aGermany)
+* [ソビエト連邦・ロシア連邦](#aRussia)
+* [中華人民共和国](#aChina)
+* [イタリア王国](#aItaly)
+* [北朝鮮](#aNortthKorea)
+* [その他の国](#aOthers)
 
 
 
@@ -44,7 +51,7 @@
 
 
 
-# ソビエト連邦・ロシア共和国 <a name="aRussia"></a>
+# ソビエト連邦・ロシア連邦 <a name="aRussia"></a>
 [目次へ](#aMokuji)
 
 ## 小銃
