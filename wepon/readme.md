@@ -24,6 +24,9 @@
 # 日本国 <a name="aJapan"></a>
 [目次へ](#aMokuji)
 
+## 迫撃砲
+[81mm迫撃砲 L16](/wepon/england/l16.md)  
+
 ## 小銃
 
 
@@ -41,11 +44,52 @@
 # アメリカ合衆国 <a name="aAmerica"></a>
 [目次へ](#aMokuji)
 
+## 軍用狙撃銃
+[M24](/wepon/america/m24.md)  
+
+## 携行ロケット
+[M72 LAW](/wepon/america/m72.md)/
+[FGM-148](/wepon/america/fgm148.md)/
+[カールグスタフ](/wepon/others/carlgustaf.md)  
+
+## 携行対空ミサイル
+[FIM-92](/wepon/america/fim92.md)  
+
+## 迫撃砲
+[M224](/wepon/america/m224.md)  
+
+
+
+
+
+# イギリス王国 <a name="aEngland"></a>
+[目次へ](#aMokuji)
+
+## 迫撃砲
+[L16 81mm迫撃砲](/wepon/england/l16.md)  
+
+
 ## 小銃
 
 
 ## 携行ロケット
-[カールグスタフ](/wepon/others/carlgustaf.md)  
+
+
+
+
+
+# フランス王国 <a name="aFrance"></a>
+[目次へ](#aMokuji)
+
+## 迫撃砲（牽引）
+[120mm迫撃砲](/wepon/france/120rt.md)  
+
+
+## 小銃
+
+
+## 携行ロケット
+
 
 
 
