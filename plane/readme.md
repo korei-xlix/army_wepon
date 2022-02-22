@@ -180,15 +180,20 @@
 # ソビエト連邦・ロシア連邦 <a name="aRussia"></a>
 [目次へ](#aMokuji)
 
+## 迎撃戦闘機
+[Mig-31](/plane/russia/mig31.md)  
+
 ## 制空戦闘機
-[Mig-29](/plane/russia/mig29.md)  
+[Mig-29](/plane/russia/mig29.md)/
 [Su-27](/plane/russia/su27.md)  
 
 
 ## 戦闘機
+[Su-24](/plane/russia/su24.md)  
 
 
 ## 攻撃機
+[Su-25](/plane/russia/su25.md)  
 
 
 ## 爆撃機
