@@ -168,12 +168,25 @@
 [2S9)](/ground/russia/2s9.md)/
 [2S19)](/ground/russia/2s19.md)  
 
+#### 自走多連装ロケット
+[BM-21](/ground/russia/bm21.md)/
+[BM-30](/ground/russia/bm30.md)  
+
 #### 自走対空戦車
 [2K22(2S6)](/ground/russia/2k22.md)/
 [ZSU-23](/ground/russia/zsu23.md)  
 
+#### 自走対空ミサイル
+[9K37](/ground/russia/9k37.md)  
+
 
 ## 重車両
+
+#### 地対空ミサイル車両
+[S-200](/ground/russia/s200.md)/
+[S-300](/ground/russia/s300.md)/
+[S-400](/ground/russia/s400.md)/
+[S-500](/ground/russia/s500.md)  
 
 #### 歩兵戦闘車
 [BMP-1](/ground/russia/bmp1.md)/
@@ -185,6 +198,7 @@
 
 #### 特殊車両
 [IMR-2](/ground/russia/btr80.md)  
+
 
 ## 軽車両
 
@@ -203,6 +217,9 @@
 
 
 ## 弾道ミサイル <a name="aStrSoviet"></a>
+
+#### 戦術弾道ミサイル
+[OTR-21](/ground/russia/otr21.md)  
 
 #### 短距離弾道ミサイル
 [R-11](/ground/russia/scud.md)/
