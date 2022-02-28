@@ -163,10 +163,10 @@
 [T-84](/ground/russia/t84.md)  
 
 #### 自走砲
-[2S1)](/ground/russia/2s1.md)/
-[2S3)](/ground/russia/2s3.md)/
-[2S9)](/ground/russia/2s9.md)/
-[2S19)](/ground/russia/2s19.md)  
+[2S1](/ground/russia/2s1.md)/
+[2S3](/ground/russia/2s3.md)/
+[2S9](/ground/russia/2s9.md)/
+[2S19](/ground/russia/2s19.md)  
 
 #### 自走多連装ロケット
 [BM-21](/ground/russia/bm21.md)/
@@ -223,7 +223,8 @@
 
 #### 短距離弾道ミサイル
 [R-11](/ground/russia/scud.md)/
-[R-17](/ground/russia/scud.md)  
+[R-17](/ground/russia/scud.md)/
+[9K720](/ground/russia/9k720.md)  
 
 
 
