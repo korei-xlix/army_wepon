@@ -1,38 +1,34 @@
-# BMD-1
-**ソビエト連邦 歩兵戦闘車**
+# BRDM-2
+**ソビエト連邦 偵察戦闘車**
 
-![aaa.jpg](https://bn02pap001files.storage.live.com/y4m4hHNXcCxTFLc1QU_ndF34kELBS2myMG1E0OCoM-ddV9XJlCyQZGKqdZP1jphUiVhrCn3C68ZcdkjM243ebxZc1e-eOLu_BKysyraHhy6nBnBnQJk26AUkfoJNHv9mexIkq5yHsB_I92eDfkkxcqWMMUDOltLnU6PlYc1U4hdKetrD8ELK9TlwOvSaMXbR4HL?width=640&height=427&cropmode=none)  
+![aaa.jpg](https://bn02pap001files.storage.live.com/y4maWQUqYQL0WJzdiJUnVHGkyXGUTHAPT9XrzUes9UElYfXSlQi1LPsMTqzDC6Q2SoN15d_xLCENbE6HRxpOIIual7js0PW3X3FXIp4RD3PqEoWiDKMZ9p7lXklvVlf0X5jDjMdERFdaqIiurHAi3WfbCed9zZ6VJLcIpGXgDPqnH2aefp55u_bolbmgw3q6hS2?width=640&height=463&cropmode=none)  
   
 
 
 |諸元  |  |
 |:--|:--|
-|製造社  |ヴォルゴグラード・トラクター  |
-|配備年  |1969年代  |
-|配備国  |ロシア、ウクライナ、ベラルーシ、インド  |
-|        |アルメニア、ウズベキスタンなど  |
-|全長    |5.4m  |
-|重量    |7.5t  |
-|速度    |70km/h（水上 10km/h）  |
-|定員    |2名+5名（操縦手、砲手、兵員5名）  |
-|武装    |73mm低圧滑空砲2A38  |
-|        |9M14 サガー（対戦車ミサイル）  |
-|        |PKT 7.62mm機関銃x3  |
+|製造社  |ゴーリキー自動車  |
+|配備年  |1963年  |
+|配備国  |ロシア、ウクライナ、ベラルーシ、イスラエル  |
+|        |シリア、ハンガリー、ルーマニアなど  |
+|全長    |5.75m  |
+|重量    |7.0t  |
+|速度    |95km/h（水上 10km/h）  |
+|定員    |4名  |
+|武装    |KVP 14.5mm重機関銃  |
+|        |PKT 7.62mm機関銃  |
 
 
 # 解説
-ソビエト連邦の歩兵戦闘車。空中投下が可能なように設計された。  
-  
-車体は、軽量化のためにアルミ合金製になっている。  
-
-操縦室の後方には戦闘室があり、1名用砲塔がある。
-戦闘室の後方には、空挺兵が乗車する兵員室がある。兵員室には通常は3人、最大で5人の空挺兵が搭乗することが可能だが、乗下車時には天井のハッチから出入りするか、後方の機関室上にある狭い扉から出入りする必要があるなど、迅速な移動に適していない構造になっている。
-このほか、フィルター式換気装置、自動消火装置、発煙装置を装備する。空挺車両特有の装備として、空中投下された本車を空挺兵が探し出せるようにビーコン発信機が設置されている。  
+ソ連が開発した歩兵戦闘車。  
+タイヤの気圧集中制御システムと車体後部に設置されたガソリンエンジン、前面に収納式の波切板を持つ艇体形の車体と車体後部の1基のウォータージェット推進装置による水上走行能力がある。より強力な大口径機関銃を密閉式の銃塔に装備し、赤外線式暗視装置が標準装備となった。  
+主車輪の間に設置された4つの展開式補助輪を持ち、軟弱地では地面に接地させて不整地走破能力を向上させることが可能である。  
+装甲厚は最大でも14mmと薄く、榴弾の破片や小火器の銃弾を防げる程度である。  
 
 
 
 # 関連情報
-* [Wikipedia:BMD-1](https://ja.wikipedia.org/wiki/BMD-1)
+* [Wikipedia:BRDM-2](https://ja.wikipedia.org/wiki/BRDM-2)
 
 
 ***
