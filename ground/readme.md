@@ -13,6 +13,7 @@
 * [フランス王国](#aFrance)
 * [ドイツ国](#aGermany)
 * [ソビエト連邦・ロシア連邦](#aRussia)
+* [ウクライナ国](#aUkraine)
 * [中華人民共和国](#aChina)
 * [イタリア王国](#aItaly)
 * [北朝鮮](#aNortthKorea)
