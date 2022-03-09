@@ -13,6 +13,7 @@
 * [フランス王国](#aFrance)
 * [ドイツ国](#aGermany)
 * [ソビエト連邦・ロシア連邦](#aRussia)
+* [ウクライナ国](#aUkraine)
 * [中華人民共和国](#aChina)
 * [イタリア王国](#aItaly)
 * [北朝鮮](#aNortthKorea)
@@ -193,6 +194,7 @@
 
 
 ## 攻撃機
+[L-39](/plane/russia/l39.md)/
 [Su-25](/plane/russia/su25.md)  
 
 
@@ -200,8 +202,50 @@
 
 
 ## 攻撃ヘリコプター
+[Mi-8](/plane/russia/mi8.md)/
 [Mi-24](/plane/russia/mi24.md)  
 
+## 偵察機
+[An-30](/plane/russia/an30.md)  
+
+## 輸送機
+[IL-76](/plane/russia/il76.md)  
+
+## 旅客機（空軍所有）
+[An-24](/plane/russia/an24.md)/
+[An-26](/plane/russia/an26.md)/
+[Tu-134](/plane/russia/tu134.md)  
+
+
+
+
+
+# ウクライナ国 <a name="aUkraine"></a>
+[目次へ](#aMokuji)
+
+## 制空戦闘機
+[Mig-29](/plane/russia/mig29.md)/
+
+## 戦闘機
+[Su-24M](/plane/russia/su24.md)  
+
+## 攻撃機
+[L-39](/plane/russia/l39.md)/
+[Su-25](/plane/russia/su25.md)  
+
+## 攻撃ヘリコプター
+[Mi-8](/plane/russia/mi8.md)  
+
+## 偵察機
+[An-30](/plane/russia/an30.md)  
+
+## 輸送機
+[IL-76](/plane/russia/il76.md)  
+
+## 旅客機（空軍所有）
+[An-24](/plane/russia/an24.md)/
+[An-26](/plane/russia/an26.md)/
+[Tu-134](/plane/russia/tu134.md)  
 
 
 

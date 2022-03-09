@@ -36,6 +36,7 @@
 	* [フランス王国の航空機](/plane/readme.md#aFrance)
 	* [ドイツ国の航空機](/plane/readme.md#aGermany)
 	* [ソビエト連邦・ロシア連邦の航空機](/plane/readme.md#aRussia)
+	* [ウクライナの航空機](/plane/readme.md#aUkraine)
 	* [中華人民共和国の航空機](/plane/readme.md#aChina)
 	* [イタリア王国の航空機](/plane/readme.md#aItaly)
 

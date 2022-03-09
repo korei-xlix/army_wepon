@@ -180,8 +180,8 @@
 [ZSU-23](/ground/russia/zsu23.md)  
 
 #### 自走対空ミサイル
-[9K33](/ground/russia/9k33.md)  
-[9K35](/ground/russia/9k35.md)  
+[9K33](/ground/russia/9k33.md)/
+[9K35](/ground/russia/9k35.md)/
 [9K37](/ground/russia/9k37.md)  
 
 
@@ -249,7 +249,6 @@
 [T-64](/ground/russia/t64.md)/
 [T-84](/ground/russia/t84.md)  
 
-
 #### 自走砲
 [2C1](/ground/russia/2s1.md)/
 [2C3](/ground/russia/2s3.md)/
@@ -265,13 +264,16 @@
 [9K22](/ground/russia/2k22.md)/
 
 #### 自走対空ミサイル
-[9A33](/ground/russia/9k33.md)  
-[9K35](/ground/russia/9k35.md)  
+[9A33](/ground/russia/9k33.md)/
+[9K35](/ground/russia/9k35.md)/
+[9K37](/ground/russia/9k37.md)  
 
 
 ## 重車両
 
 #### 地対空ミサイル車両
+[S-300PS](/ground/russia/s300.md)/
+[S-300PT](/ground/russia/s300.md)  
 
 #### 歩兵戦闘車
 [BMP-1](/ground/russia/bmp1.md)/
@@ -283,9 +285,6 @@
 #### 装輪装甲車
 [BTR-70](/ground/russia/btr70.md)/
 [BTR-80](/ground/russia/btr80.md)
-
-#### 特殊車両
-
 
 #### 偵察戦闘車
 [BRDM-2](/ground/russia/brdm2.md)/
@@ -303,10 +302,6 @@
 
 #### 戦術弾道ミサイル
 [OTR-21](/ground/russia/otr21.md)  
-
-
-
-
 
 
 
