@@ -324,15 +324,28 @@
 [ストレミーテリヌイ](/ship/russia/gnevny.md)/
 [グレミャーシチイ](/ship/russia/gnevny.md)  
 
+#### 駆逐艦
+[ウロダイ](/ship/russia/udaloy.md)  
+
+
 #### 同型艦なし
 [タシュケント（20号計画駆逐艦）](/ship/russia/tashkent_destroyer.md)/
 [ソオブラジーテリヌイ](/ship/russia/soviet_derinui.md)  
 
 
+## 潜水艦
+
+#### 攻撃潜水艦
+[キロ](/ship/russia/kiro.md)  
+
+
 ## その他の艦船
 
+#### ミサイル追跡艦
+[マーシャル・ネデリン](/ship/russia/marshal_nedelin.md)  
 
-
+#### 潜水艦救難艦
+[イゴール・ベロウソフ](/ship/russia/igor_belousov.md)  
 
 
 
@@ -381,6 +394,51 @@
 
 ## 水上機母艦
 [鎮海（じぇんはい）](/ship/china/zhenhai.md)  
+
+
+
+
+
+
+# イタリア王国 <a name="aItaly"></a>
+[目次へ](#aMokuji)
+
+## 戦艦
+
+#### ヴィットリオ・ヴェネト級
+[ヴィットリオ・ヴェネト](/ship/italy/vittorio_veneto.md)/
+[リットリオ](/ship/italy/vittorio_veneto.md)/
+[インペロ](/ship/italy/vittorio_veneto.md)/
+[ローマ](/ship/italy/vittorio_veneto.md)  
+
+
+## 航空母艦
+
+
+## 軽巡洋艦
+
+
+## 駆逐艦
+
+
+## 重巡洋艦
+
+#### トレント級
+[トレント](/ship/italy/trento.md)/
+[トリエステ](/ship/italy/trento.md)  
+
+
+## 軽巡洋艦
+
+#### カピターニ・ロマーニ級
+[ポンペオ・マーニョ](/ship/italy/capitani_romani.md)  
+
+
+## 駆逐艦
+
+
+## 水上機母艦
+
 
 
 
