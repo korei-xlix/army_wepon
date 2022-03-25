@@ -339,7 +339,8 @@
 #### 大陸間弾道ミサイル
 [銀河２号（テポドン２）](/ground/nkorea/tepodon.md)/
 [火星１４号（KN-20）](/ground/nkorea/kn20.md)/
-[火星１５号（KN-22）](/ground/nkorea/kn20.md)  
+[火星１５号（KN-22）](/ground/nkorea/kn20.md)/
+[火星１７号](/ground/nkorea/kn20.md)  
 
 #### 中距離弾道ミサイル
 [火星１０号（ムスダン）](/ground/nkorea/musudan.md)  
