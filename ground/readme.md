@@ -206,7 +206,8 @@
 [BTR-80](/ground/russia/btr80.md)  
 
 #### 特殊車両
-[IMR-2](/ground/russia/btr80.md)  
+[IMR-2](/ground/russia/imr2.md)/
+[クラスハ](/ground/russia/krasukha.md)  
 
 
 ## 軽車両
@@ -274,6 +275,9 @@
 #### 地対空ミサイル車両
 [S-300PS](/ground/russia/s300.md)/
 [S-300PT](/ground/russia/s300.md)  
+
+#### 地対艦ミサイル車両
+[RK-360](/ground/russia/rk360.md)  
 
 #### 歩兵戦闘車
 [BMP-1](/ground/russia/bmp1.md)/

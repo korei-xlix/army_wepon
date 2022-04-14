@@ -310,6 +310,16 @@
 ## 軽巡洋艦
 
 
+
+## ミサイル巡洋艦
+
+#### スラヴァ級ミサイル巡洋艦
+[モスクワ](/ship/russia/slava.md)/
+[マーシャル・ウスチーノフ](/ship/russia/slava.md)/
+[ヴァリャーク](/ship/russia/slava.md)/
+[アドミラル・フロタ・ロボフ](/ship/russia/slava.md)  
+
+
 ## 駆逐艦
 
 #### キエフ級嚮導駆逐艦（計画中止）
