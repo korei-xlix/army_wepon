@@ -360,6 +360,7 @@
 [火星７号（ノドン）](/ground/nkorea/nodon.md)/
 [スカッドER](/ground/russia/scud.md)  
 
+[新型戦術誘導兵器(仮称)](/ground/nkorea/kn26.md)  
 
 
 
