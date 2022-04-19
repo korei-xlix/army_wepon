@@ -201,6 +201,11 @@
 ## 爆撃機
 
 
+
+## 戦術爆撃機
+[Tu-22M](/plane/russia/tu22m.md)  
+
+
 ## 攻撃ヘリコプター
 [Mi-8](/plane/russia/mi8.md)/
 [Mi-24](/plane/russia/mi24.md)  
