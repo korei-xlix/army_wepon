@@ -250,9 +250,29 @@
 
 ## 戦艦（戦前）
 
+#### デアフリンガー級巡洋戦艦
+[デアフリンガー](/ship/germany/lutzow.md)/
+[リュッツオウ](/ship/germany/lutzow.md)/
+[ヒンデンブルク](/ship/germany/lutzow.md)  
+
+
+#### ヘルゴラント級戦艦
+[ヘルゴラント](/ship/germany/helgoland.md)/
+[オストフリースラント](/ship/germany/helgoland.md)/
+[テューリンゲン](/ship/germany/helgoland.md)/
+[オルデンブルク](/ship/germany/helgoland.md)  
+
+
 #### ビスマルク級戦艦
 [ビスマルク](/ship/germany/bismarck.md)/
 [ティルピッツ](/ship/germany/bismarck.md)  
+
+
+#### 同型艦なし
+[ザイドリッツ](/ship/germany/seydlitz.md)  
+
+
+
 
 
 ## 航空母艦
@@ -261,7 +281,19 @@
 ## 重巡洋艦
 
 
-## 軽巡洋艦
+## 軽巡洋艦（戦前）
+
+#### ドレスデン級軽巡洋艦
+[ドレスデン](/ship/germany/dresden.md)/
+[エムデン](/ship/germany/dresden.md)  
+
+
+#### ピラウ級防護巡洋艦
+[ピラウ](/ship/germany/pillau.md)/
+[エルビンク](/ship/germany/pillau.md)  
+
+
+
 
 
 ## 駆逐艦
