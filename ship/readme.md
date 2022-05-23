@@ -244,6 +244,19 @@
 [ダイアデム](/ship/england/bellona.md)  
 
 
+## 駆逐艦（戦前）
+
+#### J級駆逐艦
+[ジャーヴィス](/ship/england/destroyer_j.md)/
+[ジャッカル](/ship/england/destroyer_j.md)/
+[ジャガー](/ship/england/destroyer_j.md)/
+[ジュノー](/ship/england/destroyer_j.md)/
+[ジェーナス](/ship/england/destroyer_j.md)  
+[ジャベリン](/ship/england/destroyer_j.md)/
+[ジャージー](/ship/england/destroyer_j.md)/
+[ジュピター](/ship/england/destroyer_j.md)  
+
+
 ## 航空母艦
 
 #### クイーンエリザベス級航空母艦
