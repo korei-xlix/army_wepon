@@ -221,6 +221,28 @@
 [ラミリーズ](/ship/england/revenge.md)/
 [ロイヤル・オーク](/ship/england/revenge.md)  
 
+#### 同型艦なし
+[ヴァンガード](/ship/england/vanguard.md)/
+
+
+## 航空母艦（戦前）
+
+#### イラストリアス級航空母艦
+[イラストリアス](/ship/england/illustrious.md)/
+[ヴィクトリアス](/ship/england/illustrious.md)/
+[フォーミダブル](/ship/england/illustrious.md)/  
+[インドミダブル](/ship/england/illustrious.md)/
+[インプラカブル](/ship/england/illustrious.md)/
+[インディファティガブル](/ship/england/illustrious.md)  
+
+
+## 軽巡洋艦（戦前）
+[ベローナ](/ship/england/bellona.md)/
+[スパルタン](/ship/england/bellona.md)/
+[ロイヤリスト](/ship/england/bellona.md)/  
+[ブラック・プリンス](/ship/england/bellona.md)/
+[ダイアデム](/ship/england/bellona.md)  
+
 
 ## 航空母艦
 
