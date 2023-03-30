@@ -361,6 +361,7 @@
 [北極星](/ground/nkorea/hokkyokusei.md)  
 
 #### 短距離弾道ミサイル
+[イスカンデル改（KN-23）](/ground/nkorea/kn23.md)/
 [火星５号（スカッドB）](/ground/russia/scud.md)/
 [火星６号（スカッドC）](/ground/russia/scud.md)/
 [火星７号（ノドン）](/ground/nkorea/nodon.md)/
